@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/5cJgR6m/emily-bernal-v9v-II5g-V8-Lw-unsplash.jpg",
+      "course_name": "Introduction to C Programming",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 29.99,
+      "credit_hour": 3
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/cDv0Fkm/ferenc-almasi-e-Ypc-LDXHVb0-unsplash.jpg",
+      "course_name": "Basic Data Structures",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "price": 19.99,
+      "credit_hour": 2
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/C1XQVf6/ilya-pavlov-Oqtaf-YT5k-Tw-unsplash.jpg",
+      "course_name": "Introduction to Algorithms",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 39,
+      "credit_hour": 4
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/nD1HVBw/visual-design-pl9-Drj-AMV6-I-unsplash.jpg",
+      "course_name": "Introduction to C++ for DSA",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 24.99,
+      "credit_hour": 2
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/0DZXTtM/diggity-marketing-SB0-WARG16-HI-unsplash.jpg",
+      "course_name": "Introduction to OOP Python",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "price": 49,
+      "credit_hour": 5
+    },
+    {
+      "id": 6,
+      "cover_img": "https://i.ibb.co/pX0m1tr/christopher-gower-m-HRf-Lhg-ABo-unsplash.jpg",
+      "course_name": "Software Engineering",
+      "description": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 34.99,
+      "credit_hour": 3
+    },
+    {
+      "id": 7,
+      "cover_img": "https://i.ibb.co/v4r3J5d/carlos-muza-hpj-Sk-U2-UYSU-unsplash.jpg",
+      "course_name": "AWS, Cloud Computing",
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+      "price": 29.99,
+      "credit_hour": 2
+    },
+    {
+      "id": 8,
+      "cover_img": "https://i.ibb.co/zJb6Fv5/campaign-creators-i-Ei-UITs149-M-unsplash.jpg",
+      "course_name": "Database (MySQL)",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+      "price": 59,
+      "credit_hour": 6
+    },
+    {
+      "id": 9,
+      "cover_img": "https://i.ibb.co/s58b4RN/alvaro-reyes-Kx-Vl-Kiq-QOb-U-unsplash.jpg",
+      "course_name": "Problem-Solving Part",
+      "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "price": 44.99,
+      "credit_hour": 4
+    }
+  ]
+  
